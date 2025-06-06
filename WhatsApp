@@ -1,0 +1,5 @@
+            - nombre: Mensaje a Whatsapp
+  # Puede fijar la confirmación exacta o la versión.
+  # usos: zilurrane/whatsapp-actions@5320b6a9d65c77f3ca3d52b379b8ea461d478f13
+  usos: zilurrane/whatsapp-actions@0.0.1
+          
